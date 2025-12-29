@@ -29,4 +29,4 @@ Automatically pull content from Twitter/X and Telegram into your Discord channel
 
 -   [**Add Bot to Server**](https://discord.com/oauth2/authorize?client_id=1432727411698700378&permissions=275683508224&scope=bot%20applications.commands)
 -   [**Dashboard**](https://azaleagate.com/dashboard)
--   [**Support Server**](https://discord.gg/azaleagate)
+-   [**Support Server**](https://discord.gg/w5fkn45VcQ)

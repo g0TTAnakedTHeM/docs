@@ -31,4 +31,4 @@ You can revoke a license from a server and move it to another one at any time vi
 
 ## Enterprise
 Need unlimited verification, custom branding, or SLA?
-[Contact Sales](https://discord.gg/azaleagate) for Enterprise pricing.
+[Contact Sales](https://discord.gg/w5fkn45VcQ) for Enterprise pricing.
