@@ -2,7 +2,7 @@
 
 ## 1. Invite the Bot
 To start using Azalea Gate, you must first invite it to your Discord server.
--   **[Click here to Invite](https://azaleagate.com/invite)**
+-   **[Click here to Invite](https://discord.com/oauth2/authorize?client_id=1432727411698700378&permissions=275683508224&scope=bot%20applications.commands)**
 -   Ensure you grant the bot **Administrator** permissions for full functionality (Role assignment requires managing roles).
 
 ## 2. Initial Setup
